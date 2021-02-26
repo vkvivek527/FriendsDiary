@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "873622886965",
+    "firebase_url": "https://friends-1b970.firebaseio.com",
+    "project_id": "friends-1b970",
+    "storage_bucket": "friends-1b970.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873622886965:android:9a8d6c271657c62f",
+        "android_client_info": {
+          "package_name": "com.example.friendsdiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873622886965-st136lotcdpubudvpd8j59j8o9f51a3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC11LiISZ7eQP0sA4AX9Paj-Dh64hlILSY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FriendsDiary</string>
+    <string name="title">FriendsDiary</string>
+    <string name="chats">Chats</string>
+    <string name="Group">Groups</string>
+    <string name="Contacts">Contacts</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chat">Chats</string>
+    <string name="contacts">Contacts</string>
+    <string name="groups">Groups</string>
+    <string name="email">Email…</string>
+    <string name="password">Password…</string>
+    <string name="login">Login</string>
+    <string name="forgot">forgot password</string>
+    <string name="already">create account</string>
+    <string name="login_using">login using</string>
+    <string name="phone">Phone</string>
+    <string name="register">create account</string>
+    <string name="already_account">Already have an account</string>
+    <string name="find_friend">Find Friends</string>
+    <string name="setting">Setting</string>
+    <string name="logout">Logout</string>
+
+
+</resources>
